@@ -1,0 +1,17 @@
+
+/* -----------------------Menu Entete-----------------*/
+
+.Nav_entete{
+    background-color: #000;
+    padding:  5px;
+    margin: 5px;
+}
+.Nav_entete li {
+    display: inline;
+}
+.Nav_entete li a{
+
+    color: #fff;
+}
+
+/*------------------------Menu footer----------------------*/
